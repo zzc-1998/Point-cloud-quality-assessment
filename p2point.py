@@ -19,8 +19,8 @@ def d_rms(src,tar):
     point_size_src = src.shape[0]
     distance_list = np.zeros(point_size_src)
     for i in range(point_size_src):
-        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],2)
-        distance_list[i] = dis[1] # get the square of the closest point's distance
+        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],1)
+        distance_list[i] = dis[0] # get the square of the closest point's distance
     return (distance_list.sum()/point_size_src)**0.5
 
 def d_hausdorf(src,tar):
@@ -33,8 +33,8 @@ def d_hausdorf(src,tar):
     point_size_src = src.shape[0]
     distance_list = np.zeros(point_size_src)
     for i in range(point_size_src):
-        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],2)
-        distance_list[i] = dis[1] # get the square of the closest point's distance
+        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],1)
+        distance_list[i] = dis[0] # get the square of the closest point's distance
     return np.max(distance_list)**0.5
 
 def d_symmetric_rms(pc1,pc2,mode = 'max'):

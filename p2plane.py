@@ -25,9 +25,9 @@ def match_point_compute_error(src,tar,normals):
     point_size_src = src.shape[0]
     error_list = np.zeros(point_size_src)
     for i in range(point_size_src):
-        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],2)
+        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],1)
         normal = normals[i] # get the src normal
-        error_vector = tar[idx[1]] - src[i] # compute the error vector
+        error_vector = tar[idx[0]] - src[i] # compute the error vector
         error_list[i] = (np.dot(normal,error_vector))**2 # get the square of vector projection
     return error_list.sum()/point_size_src
 
