@@ -18,8 +18,8 @@ The original algoritms come from "Evaluation criteria for PCC (Point Cloud Compr
 
 # Our works about no-reference point cloud quality assessment.
 
-3D-NSS : [https://ieeexplore.ieee.org/document/9810024] (NR-PCQA)
+1. 3D-NSS : [https://ieeexplore.ieee.org/document/9810024] (NR-PCQA)
 
-PCQA via videos: [https://arxiv.org/abs/2206.05054] (NR-PCQA)
+2. PCQA via videos: [https://arxiv.org/abs/2206.05054] (NR-PCQA)
 
 If you want to make contributions or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
