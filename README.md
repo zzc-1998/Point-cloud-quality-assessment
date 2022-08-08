@@ -3,7 +3,7 @@
 2. WPC: [Perceptual Quality Assessment of Colored 3D Point Clouds](https://ieeexplore.ieee.org/document/9756929) [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
 3. LS-PCQA: [Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Approach](https://arxiv.org/pdf/2012.11895.pdf) [[Link]](https://smt.sjtu.edu.cn/database/)
 4. WPC2.0(Compression): [Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression](https://ieeexplore.ieee.org/document/9490512)   [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-2.0)
-5. WPC3.0(Compression): [A No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9490512) [[Link]]([https://github.com/qdushl/Waterloo-Point-Cloud-Database-2.0](https://github.com/qdushl/Waterloo-Point-Cloud-Database-3.0))
+5. WPC3.0(Compression): [A No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9490512) [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-3.0)
 
 
 # Basic FR-PCQA
