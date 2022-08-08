@@ -6,15 +6,15 @@ The original algoritms come from "Evaluation criteria for PCC (Point Cloud Compr
 
 # FR-PCQA metrics
 
-1.PointSSIM [https://github.com/mmspg/pointssim]
+1.PointSSIM: "Towards a Point Cloud Structural Similarity Metric" [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9106005) [[Code]](https://github.com/mmspg/pointssim)
 
-2.GraphSIM [https://github.com/NJUVISION/GraphSIM]
+2.GraphSIM: "Inferring Point Cloud Quality via Graph Similarity" [[IEEE]](http://arxiv.org/abs/2006.00497) [[Code]](https://github.com/NJUVISION/GraphSIM)
 
-3.PCQM [https://github.com/MEPP-team/PCQM]
+3.PCQM "PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds" [[IEEE]](https://ieeexplore.ieee.org/document/9123147) [[Code]](https://github.com/MEPP-team/PCQM)
 
 # RR-PCQA metrics
 
-1. PCMrr "A Reduced Reference Metric for Visual Quality Evaluation of Point Cloud Contents" [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9198142) [[Code]](https://github.com/cwi-dis/PCM_RR)
+1. PCMrr: "A Reduced Reference Metric for Visual Quality Evaluation of Point Cloud Contents" [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9198142) [[Code]](https://github.com/cwi-dis/PCM_RR)
 
 # NR-PCQA metrics
 
