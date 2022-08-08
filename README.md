@@ -18,11 +18,13 @@ The original algoritms come from "Evaluation criteria for PCC (Point Cloud Compr
 
 # NR-PCQA metrics
 
-1. 3D-NSS : "No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models" [IEEE-TCSVT](https://ieeexplore.ieee.org/document/9810024) [Arxiv]() [Code](https://github.com/zzc-1998/NR-3DQA)
+1. 3D-NSS : "No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models" [[IEEE-TCSVT]](https://ieeexplore.ieee.org/document/9810024) [[Arxiv]]() [[Code]](https://github.com/zzc-1998/NR-3DQA)
 
-1. ResSCNN [No-Reference Point Cloud Quality Assessment via Domain Adaptation]() [https://github.com/lyp22/ResSCNN]
+2. ResSCNN [No-Reference Point Cloud Quality Assessment via Domain Adaptation]() [https://github.com/lyp22/ResSCNN]
 
-2. IT-PCQA [https://github.com/lyp22/IT-PCQA]
+3. IT-PCQA [https://github.com/lyp22/IT-PCQA]
+
+4. https://arxiv.org/abs/2206.05054
 
 # Our works about no-reference point cloud quality assessment.
 
