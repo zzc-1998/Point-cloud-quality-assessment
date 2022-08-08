@@ -31,7 +31,7 @@ def match_point_compute_error(src,tar,normals):
         error_list[i] = (np.dot(normal,error_vector))**2 # get the square of vector projection
     return error_list.sum()/point_size_src
 
-def match_point_compute_error_hausdorf(src,tar):
+def match_point_compute_error_hausdorf(src,tar,normals):
     # Calculates the one way matching distortion from src -> target
     # building kdtree
     tar_pc = o3d.geometry.PointCloud()
