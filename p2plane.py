@@ -31,6 +31,22 @@ def match_point_compute_error(src,tar,normals):
         error_list[i] = (np.dot(normal,error_vector))**2 # get the square of vector projection
     return error_list.sum()/point_size_src
 
+def match_point_compute_error_hausdorf(src,tar):
+    # Calculates the one way matching distortion from src -> target
+    # building kdtree
+    tar_pc = o3d.geometry.PointCloud()
+    tar_pc.points = o3d.utility.Vector3dVector(tar)
+    kdtree = o3d.geometry.KDTreeFlann(tar_pc)
+    # matching points  
+    point_size_src = src.shape[0]
+    error_list = np.zeros(point_size_src)
+    for i in range(point_size_src):
+        [_,idx,dis] = kdtree.search_knn_vector_3d(src[i],1)
+        normal = normals[i] # get the src normal
+        error_vector = tar[idx[0]] - src[i] # compute the error vector
+        error_list[i] = (np.dot(normal,error_vector))**2 # get the square of vector projection
+    return np.max(error_list)**0.5
+
 
 def p2plane(ref_name,dis_name, no_normals = 'True'):
     ref = o3d.io.read_point_cloud(ref_name)
@@ -43,6 +59,17 @@ def p2plane(ref_name,dis_name, no_normals = 'True'):
     dis_points = pc_normalize(np.array(dis.points))
     return match_point_compute_error(ref_points,dis_points,ref_normals)
 
+
+def p2plane_hausdorf(ref_name,dis_name, no_normals = 'True'):
+    ref = o3d.io.read_point_cloud(ref_name)
+    dis = o3d.io.read_point_cloud(dis_name)
+    if no_normals:
+        ref_normals = estimate_normal(ref)
+    else:
+        ref_normals = np.array(ref.normals)
+    ref_points = pc_normalize(np.array(ref.points))
+    dis_points = pc_normalize(np.array(dis.points))
+    return match_point_compute_error_hausdorf(ref_points,dis_points,ref_normals)
 
 ref_name = 'hhi.ply'
 dis_name = 'hhi_0.ply'
