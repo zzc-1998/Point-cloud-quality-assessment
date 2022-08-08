@@ -1,8 +1,8 @@
 # Basic FR-PCQA
 Basic full-reference quality assessment metrics implemented by python.
 
-I try to implement the p2point, p2plane, and PSNR_yuv with python.
-The original algoritms come from "Evaluation criteria for PCC (Point Cloud Compression)","Dynamic Polygon Clouds: Representation and Compression for VR/AR", and "Geometric Distortion Metrics for Point Cloud Compression".
+I try to implement the p2point, p2plane, and PSNR_yuv with [python](https://github.com/zzc-1998/Point-cloud-quality-assessment/).
+The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Compression)"](https://mpeg.chiariglione.org/standards/mpeg-i/point-cloud-compression/evaluation-criteria-pcc),["Dynamic Polygon Clouds: Representation and Compression for VR/AR"](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/dynamic-polygon-clouds-representation-and-compression-for-vrar/A83EFCDBEF825DA5DC2A08308B6E21BE), and ["Geometric Distortion Metrics for Point Cloud Compression"](https://ieeexplore.ieee.org/document/8296925).
 
 # FR-PCQA metrics
 
