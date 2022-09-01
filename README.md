@@ -34,4 +34,6 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 4. 3D-CNN-PCQA: "A No-reference Quality Assessment Metric for Point Cloud Based on Captured Video Sequences" [[Arxiv]](https://arxiv.org/abs/2206.05054)
 
+5. VQA-PC:"Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric" [[Arxiv]](https://arxiv.org/abs/2208.14085)
+
 If you want to make contributions or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
