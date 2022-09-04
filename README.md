@@ -36,4 +36,8 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 5. VQA-PC:"Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric" [[Arxiv]](https://arxiv.org/abs/2208.14085)
 
+6. "Blind Quality Assessment of 3D Dense Point Clouds with Structure Guided Resampling" [[Arxiv]](https://arxiv.org/abs/2208.14603)
+
+7. MM-PCQA "MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment" [[Arxiv]](https://arxiv.org/abs/2209.00244)
+
 If you want to make contributions or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
