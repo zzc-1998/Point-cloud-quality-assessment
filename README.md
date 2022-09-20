@@ -1,4 +1,4 @@
-# 3DQA databases (update)
+# :point_right: 3DQA databases (update)
 
 ## PCQA databases 
 1. SJTU-PCQA: [Predicting the Perceptual Quality of Point Cloud: A 3D-to-2D Projection-Based Exploration](https://ieeexplore.ieee.org/abstract/document/9238424) [[Link]](https://smt.sjtu.edu.cn/database/)
@@ -35,7 +35,7 @@
 
 
 
-# 3DQA methods
+# :point_right: 3DQA methods
 ## Basic FR-PCQA
 Basic full-reference quality assessment metrics implemented by python.
 
@@ -72,6 +72,6 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
 
-# :sunglasses: If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn :sunglasses:
+:sunglasses: If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn :sunglasses:
 
-# :sparkling_heart: If you find this collection helpful, please star this poject! Thank you! :sparkling_heart:
+:sparkling_heart: If you find this collection helpful, please star this poject! Thank you! :sparkling_heart:
