@@ -30,7 +30,7 @@
 | SIAT-PCQD             | Point cloud         | Colored             | 340       |
 | LS-PCQA               | Point cloud         | Colored             | 1,240     |
 | CMDM                  | Mesh                | Colored             | 480        |
-| TMQA                  | Mesh                | Textured            | 3000      |
+| TMQA                  | Mesh                | Textured            | 3,000      |
 
 
 
