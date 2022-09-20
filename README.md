@@ -9,6 +9,27 @@
 8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
 
 
+| \multicolumn{1}{c|}{Dataset}              | \makecell{3D Repre- |
+|-------------------------------------------|---------------------|
+| \makecell[l]{LIRIS Textured Mesh          |
+| \makecell[l]{3D Meshes with Vertex        |
+| \makecell[l]{M-PCCD                       |
+| IRPC~\cite{Javaheri2019a}                 | Point cloud         | \makecell[l]{$\bullet$ 2$\times$Colorless |
+| WPC~\cite{Su2019a}                        | Point cloud         | Colored                                   | 740                      |
+| \makecell[l]{VsenseVVDB                   |
+| \makecell[l]{VsenseVVDB2                  |
+| \makecell[l]{ICIP2020 \cite{Perry2020a}}  | Point cloud         | Colored                                   | 96                       |
+| \makecell[l]{PointXR~\cite{Alexiou2020b}} | Point cloud         | Colored                                   | 40                       |
+| \makecell[l]{SJTU-PCQA~\cite{Yang2020b}}  | Point cloud         | Colored                                   | 378                      |
+| \makecell[l]{SIAT-PCQD \cite{Wu2021a}}    | Point cloud         | Colored                                   | 340                      |
+| \makecell[l]{LB-PCCD                      |
+| \makecell[l]{2DTV-VR-QoE                  |
+| \makecell[l]{LS-PCQA \cite{Liu2021}       |
+| Our dataset                               | Mesh                | Texture maps                              | \makecell{$\bullet$ 3000 |
+
+
+
+
 # Basic FR-PCQA
 Basic full-reference quality assessment metrics implemented by python.
 
