@@ -7,23 +7,29 @@
 6. CPCD2.0(Compression & Noise): [TGP-PCQA: Texture and geometry projection based quality assessment for colored point clouds](https://www.sciencedirect.com/science/article/pii/S1047320322000128) [[Link]](https://github.com/cherry0415/CPCD2.0)
 7. ICIP202: [Quality Evaluation Of Static Point Clouds Encoded Using MPEG Codecs](https://ieeexplore.ieee.org/abstract/document/9191308)
 8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
+9. IRPC: [Point Cloud Rendering after Coding : Impacts on Subjective and Objective Quality.](https://ieeexplore.ieee.org/abstract/document/9257015/)
+10. SIAT-PCQD: [Subjective Quality Database and Objective Study of Compressed Point Clouds With 6DoF Head-Mounted Display](https://ieeexplore.ieee.org/abstract/document/9502695) [[Link]](https://dx.doi.org/10.21227/ad8d-7r28)
+
+# MQA (mesh quality assessment) database 
+1. CMDM: [Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://ieeexplore.ieee.org/abstract/document/9252120) [[Link]](https://yananehme.github.io) 
+2. TMQA: [Textured Mesh Quality Assessment: Large-Scale Dataset and Deep Learning-based Quality Metric](https://yananehme.github.io/publications/2022-ACM-TOG) [[Link]](https://yananehme.github.io/publications/2022-ACM-TOG)
+
 
 
 | Database              | Format | Attributes | Rated Models|
-|-------------------------------------------|---------------------|-------------|----------|
-| M-PCCD                                    | Point cloud         | Colored     |232|
-| IRPC~\cite{Javaheri2019a}                 | Point cloud         | \makecell[l]{$\bullet$ 2$\times$Colorless |
-| WPC~\cite{Su2019a}                        | Point cloud         | Colored                                   | 740                      |
-| \makecell[l]{VsenseVVDB                   |
-| \makecell[l]{VsenseVVDB2                  |
-| \makecell[l]{ICIP2020 \cite{Perry2020a}}  | Point cloud         | Colored                                   | 96                       |
-| \makecell[l]{PointXR~\cite{Alexiou2020b}} | Point cloud         | Colored                                   | 40                       |
-| \makecell[l]{SJTU-PCQA~\cite{Yang2020b}}  | Point cloud         | Colored                                   | 378                      |
-| \makecell[l]{SIAT-PCQD \cite{Wu2021a}}    | Point cloud         | Colored                                   | 340                      |
-| \makecell[l]{LB-PCCD                      |
-| \makecell[l]{2DTV-VR-QoE                  |
-| \makecell[l]{LS-PCQA \cite{Liu2021}       |
-| Our dataset                               | Mesh                | Texture maps                              | \makecell{$\bullet$ 3000 |
+|-----------------------|---------------------|---------------------|-----------|
+| M-PCCD                | Point cloud         | Colored             | 232        |
+| IRPC                  | Point cloud         | Colorless & Colored | 54 & 54   |
+| WPC                   | Point cloud         | Colored             | 740       |
+| WPC2.0                | Point cloud         | Colored             | 400       | 
+| WPC3.0                | Point cloud         | Colored             | 350       | 
+| ICIP2020              | Point cloud         | Colored             | 96        |
+| SJTU-PCQA             | Point cloud         | Colored             | 378       |
+| SIAT-PCQD             | Point cloud         | Colored             | 340       |
+| LS-PCQA               | Point cloud         | Colored             | 1,240     |
+| CMDM                  | Mesh                | Colored             | 480        |
+| TMQA                  | Mesh                | Textured            | 3000      |
+
 
 
 
