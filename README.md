@@ -71,3 +71,4 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
 
 If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
+If you find this collection helpful, please star this poject! Thank you!
