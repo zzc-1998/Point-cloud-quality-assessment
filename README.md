@@ -9,11 +9,9 @@
 8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
 
 
-| \multicolumn{1}{c|}{Dataset}              | \makecell{3D Repre- |
-|-------------------------------------------|---------------------|
-| \makecell[l]{LIRIS Textured Mesh          |
-| \makecell[l]{3D Meshes with Vertex        |
-| \makecell[l]{M-PCCD                       |
+| Database              | Format | Attributes | Rated Models|
+|-------------------------------------------|---------------------|-------------|----------|
+| M-PCCD                                    | Point cloud         | Colored     |232|
 | IRPC~\cite{Javaheri2019a}                 | Point cloud         | \makecell[l]{$\bullet$ 2$\times$Colorless |
 | WPC~\cite{Su2019a}                        | Point cloud         | Colored                                   | 740                      |
 | \makecell[l]{VsenseVVDB                   |
