@@ -4,6 +4,9 @@
 3. LS-PCQA: [Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Approach](https://arxiv.org/pdf/2012.11895.pdf) [[Link]](https://smt.sjtu.edu.cn/database/)
 4. WPC2.0(Compression): [Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression](https://ieeexplore.ieee.org/document/9490512)   [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-2.0)
 5. WPC3.0(Compression): [No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549) [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-3.0)
+6. CPCD2.0(Compression & Noise): [TGP-PCQA: Texture and geometry projection based quality assessment for colored point clouds](https://www.sciencedirect.com/science/article/pii/S1047320322000128) [[Link]](https://github.com/cherry0415/CPCD2.0)
+7. ICIP202: [Quality Evaluation Of Static Point Clouds Encoded Using MPEG Codecs](https://ieeexplore.ieee.org/abstract/document/9191308)
+8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
 
 
 # Basic FR-PCQA
@@ -42,4 +45,4 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
 
-If you want to make contributions or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
+If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn
