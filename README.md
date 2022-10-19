@@ -11,6 +11,9 @@
 8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
 9. IRPC: [Point Cloud Rendering after Coding : Impacts on Subjective and Objective Quality.](https://ieeexplore.ieee.org/abstract/document/9257015/)
 10. SIAT-PCQD: [Subjective Quality Database and Objective Study of Compressed Point Clouds With 6DoF Head-Mounted Display](https://ieeexplore.ieee.org/abstract/document/9502695) [[Link]](https://dx.doi.org/10.21227/ad8d-7r28)
+11. vsenseVVDB (Volumetric Video Quality Database #1): [Subjective and Objective Quality Assessment for Volumetric Video Compression] (https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) [[Link]](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/)
+12. vsenseVVDB2 (Volumetric Video Quality Database #2): [Textured mesh vs coloured point cloud: A subjective study for volumetric video compression](https://ieeexplore.ieee.org/abstract/document/9123137/) [[Link]](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/)
+
 
 ## MQA (mesh quality assessment) database 
 1. CMDM: [Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://ieeexplore.ieee.org/abstract/document/9252120) [[Link]](https://yananehme.github.io) 
