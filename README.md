@@ -31,7 +31,7 @@
 | ICIP2020              | Point cloud         | Colored             | 96        |
 | SJTU-PCQA             | Point cloud         | Colored             | 378       |
 | SIAT-PCQD             | Point cloud         | Colored             | 340       |
-| LS-PCQA               | Point cloud         | Colored             | 1,240     |
+| LS-PCQA               | Point cloud         | Colored             | 1,080     |
 | CMDM                  | Mesh                | Colored             | 480        |
 | TMQA                  | Mesh                | Textured            | 3,000      |
 
@@ -74,7 +74,13 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 7. MM-PCQA: "MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment" [[Arxiv]](https://arxiv.org/abs/2209.00244)
 
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
+
+9. "GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478)
+
 ## Deep Learning based PCQA metrics
+
+
+
 
 # Contact Information
 :sunglasses: If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn :sunglasses:
