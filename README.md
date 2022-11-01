@@ -75,7 +75,7 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
 
-9. "GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478) [[Code]] (https://github.com/Slowhander/GPA-Net)
+9. "GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478) [[Code]](https://github.com/Slowhander/GPA-Net)
 
 ## Deep Learning based PCQA metrics
 
