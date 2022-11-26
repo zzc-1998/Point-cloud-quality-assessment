@@ -77,6 +77,9 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 9. "GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478) [[Code]](https://github.com/Slowhander/GPA-Net)
 
+10. "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-View Projection" [[IEEE]](https://ieeexplore.ieee.org/document/9496633) [[Code]](https://github.com/qdushl/PQA-Net)
+
+
 ## Deep Learning based PCQA metrics
 
 
