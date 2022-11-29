@@ -7,7 +7,7 @@
 4. WPC2.0(Compression): [Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression](https://ieeexplore.ieee.org/document/9490512)   [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-2.0)
 5. WPC3.0(Compression): [No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549) [[Link]](https://github.com/qdushl/Waterloo-Point-Cloud-Database-3.0)
 6. CPCD2.0(Compression & Noise): [TGP-PCQA: Texture and geometry projection based quality assessment for colored point clouds](https://www.sciencedirect.com/science/article/pii/S1047320322000128) [[Link]](https://github.com/cherry0415/CPCD2.0)
-7. ICIP202: [Quality Evaluation Of Static Point Clouds Encoded Using MPEG Codecs](https://ieeexplore.ieee.org/abstract/document/9191308)
+7. ICIP2020: [Quality Evaluation Of Static Point Clouds Encoded Using MPEG Codecs](https://ieeexplore.ieee.org/abstract/document/9191308)
 8. M-PCCD: [A comprehensive study of the rate-distortion performance in MPEG point cloud compression](https://www.nowpublishers.com/article/Details/SIP-132)
 9. IRPC: [Point Cloud Rendering after Coding : Impacts on Subjective and Objective Quality.](https://ieeexplore.ieee.org/abstract/document/9257015/)
 10. SIAT-PCQD: [Subjective Quality Database and Objective Study of Compressed Point Clouds With 6DoF Head-Mounted Display](https://ieeexplore.ieee.org/abstract/document/9502695) [[Link]](https://dx.doi.org/10.21227/ad8d-7r28)
