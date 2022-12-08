@@ -82,7 +82,6 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 10. "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-View Projection" [[IEEE]](https://ieeexplore.ieee.org/document/9496633) [[Code]](https://github.com/qdushl/PQA-Net)
 
 11. "Progressive Knowledge Transfer Based on Human Visual Perception Mechanism for Perceptual Quality Assessment of Point Clouds" [[Arxiv]](https://arxiv.org/abs/2211.16646)
-## Deep Learning based PCQA metrics
 
 
 
