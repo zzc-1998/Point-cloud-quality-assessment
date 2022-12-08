@@ -18,13 +18,13 @@
 ## MQA (mesh quality assessment) database 
 1. CMDM: [Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://ieeexplore.ieee.org/abstract/document/9252120) [[Link]](https://yananehme.github.io) 
 2. TMQA: [Textured Mesh Quality Assessment: Large-Scale Dataset and Deep Learning-based Quality Metric](https://yananehme.github.io/publications/2022-ACM-TOG) [[Link]](https://yananehme.github.io/publications/2022-ACM-TOG)
-3. Geo-Metric: A Perceptual Dataset of Distortions on Faces
+3. [Geo-Metric: A Perceptual Dataset of Distortions on Faces](https://dl.acm.org/doi/abs/10.1145/3550454.3555475) [[link]](https://github.com/facebookresearch/Geo-metric)
 
 
 ## Overview of the databases
 | Database              | Format | Attributes | Rated Models|
 |-----------------------|---------------------|---------------------|-----------|
-| M-PCCD                | Point cloud         | Colored             | 232        |
+| M-PCCD                | Point cloud         | Colored             | 232       |
 | IRPC                  | Point cloud         | Colorless & Colored | 54 & 54   |
 | WPC                   | Point cloud         | Colored             | 740       |
 | WPC2.0                | Point cloud         | Colored             | 400       | 
@@ -33,8 +33,9 @@
 | SJTU-PCQA             | Point cloud         | Colored             | 378       |
 | SIAT-PCQD             | Point cloud         | Colored             | 340       |
 | LS-PCQA               | Point cloud         | Colored             | 1,080     |
-| CMDM                  | Mesh                | Colored             | 480        |
-| TMQA                  | Mesh                | Textured            | 3,000      |
+| CMDM                  | Mesh                | Colored             | 480       |
+| TMQA                  | Mesh                | Textured            | 3,000     |
+| Geo-Metric            | Mesh                | Geometry Faces      | 840       |
 
 
 
