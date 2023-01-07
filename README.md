@@ -59,6 +59,8 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 1. PCMrr: "A Reduced Reference Metric for Visual Quality Evaluation of Point Cloud Contents" [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9198142) [[Code]](https://github.com/cwi-dis/PCM_RR)
 
+2. "Reduced Reference Quality Assessment for Point Cloud Compression" [[Arxiv]](https://arxiv.org/pdf/2301.01009.pdf)
+
 ## NR-PCQA metrics
 
 1. 3D-NSS: "No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models" [[IEEE-TCSVT]](https://ieeexplore.ieee.org/document/9810024) [[Arxiv]](https://arxiv.org/abs/2107.02041) [[Code]](https://github.com/zzc-1998/NR-3DQA)
