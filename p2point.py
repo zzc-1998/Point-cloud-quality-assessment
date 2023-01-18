@@ -49,7 +49,7 @@ def d_symmetric_hausdorf(pc1,pc2):
     # haudorf p2point see Evaluation criteria for PCC (Point Cloud Compression)
     return max(d_hausdorf(pc1,pc2),d_hausdorf(pc2,pc1))
 
-
+# MSE P2POINT
 def p2point(ref_name,dis_name):
     ref = o3d.io.read_point_cloud(ref_name)
     dis = o3d.io.read_point_cloud(dis_name)
@@ -57,14 +57,10 @@ def p2point(ref_name,dis_name):
     dis_points = pc_normalize(np.array(dis.points))
     return d_symmetric_rms(ref_points,dis_points)
 
+# HAUSDORF P2POINT
 def p2point_hausdorf(ref_name,dis_name):
     ref = o3d.io.read_point_cloud(ref_name)
     dis = o3d.io.read_point_cloud(dis_name)
     ref_points = pc_normalize(np.array(ref.points))
     dis_points = pc_normalize(np.array(dis.points))
     return d_symmetric_hausdorf(ref_points,dis_points)
-
-ref_name = 'hhi.ply'
-dis_name = 'hhi_0.ply'
-#print(p2point(ref_name,dis_name))
-print(p2point_hausdorf(ref_name,dis_name))
