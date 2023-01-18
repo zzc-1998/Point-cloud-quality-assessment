@@ -60,7 +60,7 @@ def p2plane(ref_name,dis_name, no_normals = 'True'):
     dis_points = pc_normalize(np.array(dis.points))
     return match_point_compute_error(ref_points,dis_points,ref_normals)
 
-#HAUDORF P2PLANE
+#HAUSDORF P2PLANE
 def p2plane_hausdorf(ref_name,dis_name, no_normals = 'True'):
     ref = o3d.io.read_point_cloud(ref_name)
     dis = o3d.io.read_point_cloud(dis_name)
@@ -70,4 +70,9 @@ def p2plane_hausdorf(ref_name,dis_name, no_normals = 'True'):
         ref_normals = np.array(ref.normals)
     ref_points = pc_normalize(np.array(ref.points))
     dis_points = pc_normalize(np.array(dis.points))
-    return match_point_compute_error_hausdorf(ref_points,dis_points,ref_normals)
+    return match_point_compute_error_hausdorf(ref_points,dis_points,ref_normals)\
+
+# ref_name = 'hhi.ply'
+# dis_name = 'hhi_0.ply'
+# print(p2point(ref_name,dis_name))
+# print(p2point_hausdorf(ref_name,dis_name))
