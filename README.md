@@ -61,7 +61,7 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 2. "Reduced Reference Quality Assessment for Point Cloud Compression" [[Arxiv]](https://arxiv.org/pdf/2301.01009.pdf)
 
-3. "Reduced-Reference Quality Assessment of Point Clouds via Content-Oriented Saliency Projection" [[Arxiv]](https://arxiv.org/abs/2301.07681) [[Code]] (https://github.com/weizhou-geek/RR-CAP)
+3. "Reduced-Reference Quality Assessment of Point Clouds via Content-Oriented Saliency Projection" [[Arxiv]](https://arxiv.org/abs/2301.07681) [[Code]](https://github.com/weizhou-geek/RR-CAP)
 
 ## NR-PCQA metrics
 
