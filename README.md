@@ -20,6 +20,8 @@
 2. TMQA: [Textured Mesh Quality Assessment: Large-Scale Dataset and Deep Learning-based Quality Metric](https://yananehme.github.io/publications/2022-ACM-TOG) [[Link]](https://yananehme.github.io/publications/2022-ACM-TOG)
 3. [Geo-Metric: A Perceptual Dataset of Distortions on Faces](https://dl.acm.org/doi/abs/10.1145/3550454.3555475) [[link]](https://github.com/facebookresearch/Geo-metric)
 
+## Digital human quality assessment database
+1. DHHQA: [Perceptual Quality Assessment for Digital Human Heads](https://arxiv.org/abs/2209.09489) [[Link]](https://github.com/zzc-1998/DHHQA)
 
 ## Overview of the databases
 | Database              | Format | Attributes | Rated Models|
@@ -35,7 +37,8 @@
 | LS-PCQA               | Point cloud         | Colored             | 1,080     |
 | CMDM                  | Mesh                | Colored             | 480       |
 | TMQA                  | Mesh                | Textured            | 3,000     |
-| Geo-Metric            | Mesh                | Geometry Faces      | 2,450       |
+| Geo-Metric            | Mesh                | Geometry Faces      | 2,450     |
+| DHHQA                 | Mesh                | Textured human heads| 1,540     |
 
 
 
