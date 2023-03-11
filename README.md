@@ -90,7 +90,7 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 11. "Progressive Knowledge Transfer Based on Human Visual Perception Mechanism for Perceptual Quality Assessment of Point Clouds" [[Arxiv]](https://arxiv.org/abs/2211.16646)
 
-12. ``Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds'' [[TIP]](https://ieeexplore.ieee.org/abstract/document/10061856?casa_token=hh3eIB-ggm8AAAAA:wIXnZG4sBOPW-ZY1XZA0Z3TtpbQDhRbwqQUcijdTRwHIjEb1OEakhcN5_2HV38IYg_1oW5_rjfY)
+12. ``Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds'' [[IEEE-TIP]](https://ieeexplore.ieee.org/abstract/document/10061856?casa_token=hh3eIB-ggm8AAAAA:wIXnZG4sBOPW-ZY1XZA0Z3TtpbQDhRbwqQUcijdTRwHIjEb1OEakhcN5_2HV38IYg_1oW5_rjfY)
 
 
 
