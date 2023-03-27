@@ -13,7 +13,7 @@
 10. SIAT-PCQD: [Subjective Quality Database and Objective Study of Compressed Point Clouds With 6DoF Head-Mounted Display](https://ieeexplore.ieee.org/abstract/document/9502695) [[Link]](https://dx.doi.org/10.21227/ad8d-7r28)
 11. vsenseVVDB (Volumetric Video Quality Database #1): [Subjective and Objective Quality Assessment for Volumetric Video Compression] (https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) [[Link]](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/)
 12. vsenseVVDB2 (Volumetric Video Quality Database #2): [Textured mesh vs coloured point cloud: A subjective study for volumetric video compression](https://ieeexplore.ieee.org/abstract/document/9123137/) [[Link]](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/)
-
+13. BASICS: [BASICS: Broad quality Assessment of Static point clouds In Compression Scenarios](https://arxiv.org/pdf/2302.04796.pdf)
 
 ## MQA (mesh quality assessment) database 
 1. CMDM: [Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://ieeexplore.ieee.org/abstract/document/9252120) [[Link]](https://yananehme.github.io) 
@@ -39,7 +39,7 @@
 | TMQA                  | Mesh                | Textured            | 3,000     |
 | Geo-Metric            | Mesh                | Geometry Faces      | 2,450     |
 | DHHQA                 | Mesh                | Textured human heads| 1,540     |
-
+| BASICS                | Point cloud         | Colored             | 1,494     |
 
 
 
