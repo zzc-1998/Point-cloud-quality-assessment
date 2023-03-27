@@ -35,11 +35,12 @@
 | SJTU-PCQA             | Point cloud         | Colored             | 378       |
 | SIAT-PCQD             | Point cloud         | Colored             | 340       |
 | LS-PCQA               | Point cloud         | Colored             | 1,080     |
+| BASICS                | Point cloud         | Colored             | 1,494     |
 | CMDM                  | Mesh                | Colored             | 480       |
 | TMQA                  | Mesh                | Textured            | 3,000     |
 | Geo-Metric            | Mesh                | Geometry Faces      | 2,450     |
 | DHHQA                 | Mesh                | Textured human heads| 1,540     |
-| BASICS                | Point cloud         | Colored             | 1,494     |
+
 
 
 
