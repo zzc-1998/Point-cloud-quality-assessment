@@ -98,7 +98,7 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 ## Mesh QA metrics
 
-1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096048](https://ieeexplore.ieee.org/document/10096048))
+1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]](https://ieeexplore.ieee.org/document/10096048)
 
 
 # Contact Information
