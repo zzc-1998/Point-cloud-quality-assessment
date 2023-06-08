@@ -23,6 +23,9 @@
 ## Digital human quality assessment database
 1. DHHQA: [Perceptual Quality Assessment for Digital Human Heads](https://arxiv.org/abs/2209.09489) [[Link]](https://github.com/zzc-1998/DHHQA)
 
+2. DDH-QA: [DDH-QA: A DYNAMIC DIGITAL HUMANS QUALITY ASSESSMENT DATABASE](https://arxiv.org/pdf/2212.12734.pdf) [[Link]](https://github.com/zzc-1998/DDH-QA)
+
+
 ## Overview of the databases
 | Database              | Format | Attributes | Rated Models|
 |-----------------------|---------------------|---------------------|-----------|
@@ -40,7 +43,7 @@
 | TMQA                  | Mesh                | Textured            | 3,000     |
 | Geo-Metric            | Mesh                | Geometry Faces      | 2,450     |
 | DHHQA                 | Mesh                | Textured human heads| 1,540     |
-
+| DDH-QA                | FBX/MP4             | Dynamic Digital Humans | 800     |
 
 
 
@@ -93,7 +96,9 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 12. ``Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds'' [[IEEE-TIP]](https://ieeexplore.ieee.org/abstract/document/10061856?casa_token=hh3eIB-ggm8AAAAA:wIXnZG4sBOPW-ZY1XZA0Z3TtpbQDhRbwqQUcijdTRwHIjEb1OEakhcN5_2HV38IYg_1oW5_rjfY)
 
+## Mesh QA metrics
 
+1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096048](https://ieeexplore.ieee.org/document/10096048))
 
 
 # Contact Information
