@@ -1,4 +1,4 @@
-# :point_right: 3DQA databases (update)
+# :point_right: 3DQA Databases (update)
 
 ## PCQA databases 
 1. SJTU-PCQA: [Predicting the Perceptual Quality of Point Cloud: A 3D-to-2D Projection-Based Exploration](https://ieeexplore.ieee.org/abstract/document/9238424) [[Link]](https://smt.sjtu.edu.cn/database/)
