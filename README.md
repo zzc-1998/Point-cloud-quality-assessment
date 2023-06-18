@@ -49,10 +49,10 @@
 
 # :point_right: 3DQA methods
 ## Basic FR-PCQA
-Basic full-reference quality assessment metrics implemented by python.
+Basic full-reference quality assessment metrics implemented by Python.
 
 I try to implement the p2point, p2plane, and PSNR_yuv with [python](https://github.com/zzc-1998/Point-cloud-quality-assessment/).
-The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Compression)"](https://mpeg.chiariglione.org/standards/mpeg-i/point-cloud-compression/evaluation-criteria-pcc),["Dynamic Polygon Clouds: Representation and Compression for VR/AR"](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/dynamic-polygon-clouds-representation-and-compression-for-vrar/A83EFCDBEF825DA5DC2A08308B6E21BE), and ["Geometric Distortion Metrics for Point Cloud Compression"](https://ieeexplore.ieee.org/document/8296925).
+The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Compression)"](https://mpeg.chiariglione.org/standards/mpeg-i/point-cloud-compression/evaluation-criteria-pcc),["Dynamic Polygon Clouds: Representation and Compression for VR/AR"](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/dynamic-polygon-clouds-representation-and-compression-for-vrar/A83EFCDBEF825DA5DC2A08308B6E21BE), and ["Geometric Distortion Metrics for Point Cloud Compression"](https://ieeexplore.ieee.org/document/8296925).
 
 ## FR-PCQA metrics
 
@@ -60,7 +60,7 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 2.GraphSIM: "Inferring Point Cloud Quality via Graph Similarity" [[IEEE]](http://arxiv.org/abs/2006.00497) [[Code]](https://github.com/NJUVISION/GraphSIM)
 
-3.PCQM "PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds" [[IEEE]](https://ieeexplore.ieee.org/document/9123147) [[Code]](https://github.com/MEPP-team/PCQM)
+3. PCQM "PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds" [[IEEE]](https://ieeexplore.ieee.org/document/9123147) [[Code]](https://github.com/MEPP-team/PCQM)
 
 ## RR-PCQA metrics
 
@@ -84,17 +84,19 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 
 6. "Blind Quality Assessment of 3D Dense Point Clouds with Structure Guided Resampling" [[Arxiv]](https://arxiv.org/abs/2208.14603)
 
-7. MM-PCQA: "MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment" [[Arxiv]](https://arxiv.org/abs/2209.00244)
+7. MM-PCQA: "MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment" [[Arxiv]](https://arxiv.org/abs/2209.00244)[[Code]](https://github.com/zzc-1998/MM-PCQA)
 
 8. "V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion" [[IEEE]](https://ieeexplore.ieee.org/document/9881542)
 
-9. "GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478) [[Code]](https://github.com/Slowhander/GPA-Net)
+9. "GPA-Net: No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network" [[Arxiv]](https://arxiv.org/abs/2210.16478) [[Code]](https://github.com/Slowhander/GPA-Net)
 
 10. "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-View Projection" [[IEEE]](https://ieeexplore.ieee.org/document/9496633) [[Code]](https://github.com/qdushl/PQA-Net)
 
 11. "Progressive Knowledge Transfer Based on Human Visual Perception Mechanism for Perceptual Quality Assessment of Point Clouds" [[Arxiv]](https://arxiv.org/abs/2211.16646)
 
 12. ``Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds'' [[IEEE-TIP]](https://ieeexplore.ieee.org/abstract/document/10061856?casa_token=hh3eIB-ggm8AAAAA:wIXnZG4sBOPW-ZY1XZA0Z3TtpbQDhRbwqQUcijdTRwHIjEb1OEakhcN5_2HV38IYg_1oW5_rjfY)
+
+13. ``GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment''[[Arxiv]](https://arxiv.org/pdf/2306.05658.pdf)
 
 ## Mesh QA metrics
 
@@ -104,4 +106,4 @@ The original algoritms come from ["Evaluation criteria for PCC (Point Cloud Comp
 # Contact Information
 :sunglasses: If you want to make contributions, include your works, or simply make discussions, feel free to e-mail me at zzc1998@sjtu.edu.cn :sunglasses:
 
-:sparkling_heart: If you find this collection helpful, please star this poject! Thank you! :sparkling_heart:
+:sparkling_heart: If you find this collection helpful, please star this project! Thank you! :sparkling_heart:
