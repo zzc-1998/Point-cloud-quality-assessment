@@ -62,6 +62,8 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 
 3. PCQM "PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds" [[IEEE]](https://ieeexplore.ieee.org/document/9123147) [[Code]](https://github.com/MEPP-team/PCQM)
 
+4. ``Pseudo-reference Point Cloud Quality Measurement Based on Joint 2D and 3D Distortion Description'' [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10167694)
+
 ## RR-PCQA metrics
 
 1. PCMrr: "A Reduced Reference Metric for Visual Quality Evaluation of Point Cloud Contents" [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9198142) [[Code]](https://github.com/cwi-dis/PCM_RR)
@@ -96,7 +98,9 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 
 12. ``Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds'' [[IEEE-TIP]](https://ieeexplore.ieee.org/abstract/document/10061856?casa_token=hh3eIB-ggm8AAAAA:wIXnZG4sBOPW-ZY1XZA0Z3TtpbQDhRbwqQUcijdTRwHIjEb1OEakhcN5_2HV38IYg_1oW5_rjfY)
 
-13. ``GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment''[[Arxiv]](https://arxiv.org/pdf/2306.05658.pdf)
+13. ``GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment''[[Arxiv]](https://arxiv.org/pdf/2306.05658.pdf)[[Code]](https://github.com/zzc-1998/GMS-3DQA)
+
+14. ``Once-Training-All-Fine: No-Reference Point Cloud Quality Assessment via Domain-relevance Degradation Description'' [[Arxiv]](https://arxiv.org/abs/2307.01567)
 
 ## Mesh QA metrics
 
