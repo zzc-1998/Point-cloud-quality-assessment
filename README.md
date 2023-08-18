@@ -101,6 +101,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 13 | -                         | ["GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment"](https://arxiv.org/pdf/2306.05658.pdf)                                                                                                               | [Code](https://github.com/zzc-1998/GMS-3DQA)           |
 | 14 | -                         | ["Once-Training-All-Fine: No-Reference Point Cloud Quality Assessment via Domain-relevance Degradation Description"](https://arxiv.org/abs/2307.01567)                                                                                     | -                                                      |
 | 15 | -                         | ["Pseudo-Reference Point Cloud Quality Measurement Based on Joint 2-D and 3-D Distortion Description"](https://ieeexplore.ieee.org/abstract/document/10167694)                                                                            | -                                                      |
+| 16 | -                         | ["GPA-Net: No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network"](https://ieeexplore.ieee.org/document/10168055)                                                                                       | -                                                      |
 
 
 ## Mesh QA metrics
