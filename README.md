@@ -50,7 +50,7 @@
 |---|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | 1 | DHHQA         | [Perceptual Quality Assessment for Digital Human Heads](https://arxiv.org/abs/2209.09489)                                                                                       | [Link](https://github.com/zzc-1998/DHHQA)                           |
 | 2 | DDH-QA        | [DDH-QA: A DYNAMIC DIGITAL HUMANS QUALITY ASSESSMENT DATABASE](https://arxiv.org/pdf/2212.12734.pdf)                                                                           | [Link](https://github.com/zzc-1998/DDH-QA)                          |
-| 3 | SJTU-H3D      | [Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation](https://arxiv.org/abs/2307.02808)                                                       | [Link](https://github.com/zzc-1998/S
+| 3 | SJTU-H3D      | [Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation](https://arxiv.org/abs/2307.02808)                                                       | [Link](https://github.com/zzc-1998/SJTU-H3D)
 
 
 
