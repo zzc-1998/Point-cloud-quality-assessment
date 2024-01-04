@@ -43,6 +43,7 @@
 | 1 | CMDM          | [Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation](https://ieeexplore.ieee.org/abstract/document/9252120)    | [Link](https://yananehme.github.io)                                        |
 | 2 | TMQA          | [Textured Mesh Quality Assessment: Large-Scale Dataset and Deep Learning-based Quality Metric](https://yananehme.github.io/publications/2022-ACM-TOG)               | [Link](https://yananehme.github.io/publications/2022-ACM-TOG)               |
 | 3 | -             | [Geo-Metric: A Perceptual Dataset of Distortions on Faces](https://dl.acm.org/doi/abs/10.1145/3550454.3555475)                                                     | [link](https://github.com/facebookresearch/Geo-metric)                      |
+| 4 | SJTU-TMQA     | [SJTU-TMQA: A quality assessment database for static mesh with texture map](https://arxiv.org/abs/2309.15675) | [link](https://ccccby.github.io/) |
 
 
 ## Digital human quality assessment database
@@ -80,6 +81,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 1 | PCMrr       | ["A Reduced Reference Metric for Visual Quality Evaluation of Point Cloud Contents"](https://ieeexplore.ieee.org/abstract/document/9198142) | [Code](https://github.com/cwi-dis/PCM_RR)                        |
 | 2 | -           | ["Reduced Reference Quality Assessment for Point Cloud Compression"](https://arxiv.org/pdf/2301.01009.pdf)                                 | -                                                                 |
 | 3 | -           | ["Reduced-Reference Quality Assessment of Point Clouds via Content-Oriented Saliency Projection"](https://arxiv.org/abs/2301.07681)       | [Code](https://github.com/weizhou-geek/RR-CAP)                    |
+| 4 | -           | ["Support Vector Regression-based Reduced-Reference Perceptual Quality Model for Compressed Point Clouds"](https://ieeexplore.ieee.org/abstract/document/10375131)||
 
 
 ## NR-PCQA metrics
@@ -90,7 +92,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 2  | ResSCNN                   | ["Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Approach"](https://arxiv.org/pdf/2012.11895.pdf)                                                                                                    | [Code](https://github.com/lyp22/ResSCNN)               |
 | 3  | IT-PCQA                   | ["No-Reference Point Cloud Quality Assessment via Domain Adaptation"](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.pdf)                     | [Code](https://github.com/lyp22/IT-PCQA)               |
 | 4  | 3D-CNN-PCQA               | ["A No-reference Quality Assessment Metric for Point Cloud Based on Captured Video Sequences"](https://arxiv.org/abs/2206.05054)                                                                                                          | -                                                      |
-| 5  | VQA-PC                    | ["Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric"](https://arxiv.org/abs/2208.14085)                                                                                                              | [Code](https://github.com/zzc-1998/VQA_PC)             |
+| 5  | VQA-PC                    | ["Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric"](https://arxiv.org/abs/2208.14085)                                                                                                              | [Code](https://github.com/zzc-1998/VQA_PC)             |
 | 6  | -                         | ["Blind Quality Assessment of 3D Dense Point Clouds with Structure Guided Resampling"](https://arxiv.org/abs/2208.14603)                                                                                                                    | -                                                      |
 | 7  | MM-PCQA                   | ["MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment"](https://arxiv.org/abs/2209.00244)                                                                                                                        | [Code](https://github.com/zzc-1998/MM-PCQA)            |
 | 8  | -                         | ["V-PCC Projection Based Blind Point Cloud Quality Assessment for Compression Distortion"](https://ieeexplore.ieee.org/document/9881542)                                                                                                    | -                                                      |
