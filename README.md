@@ -106,6 +106,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 16 | -                         | ["pmBQA: Projection-based Blind Point Cloud Quality Assessment via Multimodal Learning"](https://dl.acm.org/doi/abs/10.1145/3581783.3611998)                                                                            | -                                                      |
 | 17 | -                         | ["Non-Local Geometry and Color Gradient Aggregation Graph Model for No-Reference Point Cloud Quality Assessment"](https://dl.acm.org/doi/abs/10.1145/3581783.3612169)                                                                            | -                                                      |
 | 18 | -                         | ["Simple Baselines for Projection-based Full-reference and No-reference Point Cloud Quality Assessment"](https://arxiv.org/abs/2310.17147)                                                                            | -                                                      |
+| 19 | -                         |["Plain-PCQA: No-Reference Point Cloud Quality Assessment by Analysis of Plain Visual and Geometrical Components"](https://ieeexplore.ieee.org/document/10381826)|-|
 
 ## Mesh QA metrics
 
