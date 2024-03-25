@@ -108,6 +108,8 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 18 | -                         | ["Simple Baselines for Projection-based Full-reference and No-reference Point Cloud Quality Assessment"](https://arxiv.org/abs/2310.17147)                                                                            | -                                                      |
 | 19 | -                         |["Plain-PCQA: No-Reference Point Cloud Quality Assessment by Analysis of Plain Visual and Geometrical Components"](https://ieeexplore.ieee.org/document/10381826)|-|
 | 20 | -                         |["Zoom to Perceive Better: No-reference Point Cloud Quality Assessment via Exploring Effective Multiscale Feature"](https://ieeexplore.ieee.org/document/10422856)|[Code](https://openi.pcl.ac.cn/OpenPointCloud/MOD-PCQA)|
+| 21 | -                         |["PAME: SELF-SUPERVISED MASKED AUTOENCODER FOR NO-REFERENCE POINT CLOUD QUALITY ASSESSMENT"](https://arxiv.org/pdf/2403.10061.pdf)|-|
+| 22 | -                         |["Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment"](https://arxiv.org/pdf/2403.10066.pdf)}|-|
 
 ## Mesh QA metrics
 
