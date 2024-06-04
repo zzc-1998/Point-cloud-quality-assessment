@@ -112,6 +112,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 22 | -                         |["Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment"](https://arxiv.org/pdf/2403.10066.pdf)|-|
 | 23 | -                         |["MFT-PCQA: Multi-Modal Fusion Transformer for No-Reference Point Cloud Quality Assessment"](https://ieeexplore.ieee.org/abstract/document/10445736)|-|
 | 24 | -                         |["Rating-Augmented No-Reference Point Cloud Quality Assessment Using Multi-Task Learning"](https://ieeexplore.ieee.org/abstract/document/10448511) |-|
+| 25 | -                         |["3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention"](https://ieeexplore.ieee.org/abstract/document/10542438) | [Code](https://github.com/philox12358/3DTA-PCQA) |
 
 ## Mesh QA metrics
 
