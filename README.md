@@ -115,6 +115,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 25 | -                         |["3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention"](https://ieeexplore.ieee.org/abstract/document/10542438) | [Code](https://github.com/philox12358/3DTA-PCQA) |
 | 26 | -                         |["Compressed Point Cloud Quality Index by Combining Global Appearance and Local Details"](https://dl.acm.org/doi/abs/10.1145/3672567) | - |
 | 27 | -                         |["Asynchronous Feedback Network for Perceptual Point Cloud Quality Assessment"](https://arxiv.org/pdf/2407.09806) | [Code](https://github.com/zhangyujie-1998/AFNet) |
+| 28 | -                         |["TCDM: Transformational Complexity Based Distortion Metric for Perceptual Point Cloud Quality Assessment](https://ieeexplore.ieee.org/abstract/document/10337742)  | [Code](https://github.com/zyj1318053/TCDM) |
 ## Mesh QA metrics
 
 1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]](https://ieeexplore.ieee.org/document/10096048)
