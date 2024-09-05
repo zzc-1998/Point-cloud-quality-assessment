@@ -116,6 +116,8 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 26 | -                         |["Compressed Point Cloud Quality Index by Combining Global Appearance and Local Details"](https://dl.acm.org/doi/abs/10.1145/3672567) | - |
 | 27 | -                         |["Asynchronous Feedback Network for Perceptual Point Cloud Quality Assessment"](https://arxiv.org/pdf/2407.09806) | [Code](https://github.com/zhangyujie-1998/AFNet) |
 | 28 | -                         |["TCDM: Transformational Complexity Based Distortion Metric for Perceptual Point Cloud Quality Assessment](https://ieeexplore.ieee.org/abstract/document/10337742)  | [Code](https://github.com/zyj1318053/TCDM) |
+| 29 | -                         |["LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM"](https://arxiv.org/abs/2404.18203) | [Code](https://github.com/Q-Future/LMM-PCQA) |
+| 30 | -                         |["LLM-guided Cross-Modal Point Cloud Quality Assessment: A Graph Learning Approach"](https://ieeexplore.ieee.org/abstract/document/10660545) | - |
 ## Mesh QA metrics
 
 1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]](https://ieeexplore.ieee.org/document/10096048)
