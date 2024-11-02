@@ -1,5 +1,10 @@
 # :point_right: 3DQA Databases (update)
 
+If you want to add PCQA papers and codes to this list, feel free to start a pull request.
+
+We are happy to see your contribution!
+
+
 ## Overview of the databases
 | Database              | Format | Attributes | Rated Models|
 |-----------------------|---------------------|---------------------|-----------|
