@@ -127,6 +127,10 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 32 | -                         |["Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds"](https://arxiv.org/abs/2410.06689)           |  -  |
 | 33 | -                         |["No-Reference Point Cloud Quality Assessment Through Structure Sampling and Clustering Based on Graph"](https://ieeexplore.ieee.org/abstract/document/10737898/)       | - |
 | 34 | -                         |["No-reference point cloud quality assessment via graph convolutional network"](https://orca.cardiff.ac.uk/id/eprint/172907/)                         |   -   |
+| 35 | -                         |["CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment"](https://arxiv.org/abs/2501.10071)                         |   -   |
+| 36 | -                         |["Information Exploration of Projected Views for Point Cloud Quality Measurement"](https://ieeexplore.ieee.org/abstract/document/10841467)                         |   -   |
+
+
 ## Mesh QA metrics
 
 1. "Surface-Sampling Based Objective Quality Assessment Metrics for Meshes" [[ICASSP]](https://ieeexplore.ieee.org/document/10096048)
