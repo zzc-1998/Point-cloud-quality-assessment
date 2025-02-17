@@ -129,6 +129,8 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 34 | -                         |["No-reference point cloud quality assessment via graph convolutional network"](https://orca.cardiff.ac.uk/id/eprint/172907/)                         |   -   |
 | 35 | -                         |["CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment"](https://arxiv.org/abs/2501.10071)                         |   -   |
 | 36 | -                         |["Information Exploration of Projected Views for Point Cloud Quality Measurement"](https://ieeexplore.ieee.org/abstract/document/10841467)                         |   -   |
+| 37 | -                         |["CMDC-PCQA: No-Reference Point Cloud Quality Assessment via a Cross-Modal Deep-Coupling Framework"](https://ieeexplore.ieee.org/abstract/document/10884925)        |   -   |
+| 38 | -                         |["No-reference geometry quality assessment for colorless point clouds via list-wise rank learning"](https://www.sciencedirect.com/science/article/abs/pii/S0097849325000159)     |   -   |                                            
 
 
 ## Mesh QA metrics
