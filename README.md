@@ -131,8 +131,10 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 36 | -                         |["Information Exploration of Projected Views for Point Cloud Quality Measurement"](https://ieeexplore.ieee.org/abstract/document/10841467)                         |   -   |
 | 37 | -                         |["CMDC-PCQA: No-Reference Point Cloud Quality Assessment via a Cross-Modal Deep-Coupling Framework"](https://ieeexplore.ieee.org/abstract/document/10884925)        |   -   |
 | 38 | -                         |["No-reference geometry quality assessment for colorless point clouds via list-wise rank learning"](https://www.sciencedirect.com/science/article/abs/pii/S0097849325000159)     |   -   | 
-| 39 | -                         |["Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment"](https://ieeexplore.ieee.org/abstract/document/10549980)     | [Code](https://github.com/chenwuwq/DHCN) |                                       
-
+| 39 | -                         |["Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment"](https://ieeexplore.ieee.org/abstract/document/10549980)     | [Code](https://github.com/chenwuwq/DHCN) |       
+| 40 | -                         |["DQP-PCQA: Deep Quantization Parameters Bring New Insight to Point Cloud Quality Assessment"](https://ieeexplore.ieee.org/abstract/document/11078383/)         |   -   |
+| 41 | -                         |["Perception-Weighted Multi-View Point Cloud Quality Assessment with Saliency-Guided Coverage Analysis"](https://ieeexplore.ieee.org/abstract/document/11081825)         |   -   |
+| 42 | -                         |["Mpv-pcqa: multimodal no-reference point cloud quality assessment via point cloud and captured dynamic video"](https://link.springer.com/article/10.1007/s00530-025-01887-2)         |   -   |
 
 ## Mesh QA metrics
 
