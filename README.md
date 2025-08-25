@@ -135,6 +135,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 40 | -                         |["DQP-PCQA: Deep Quantization Parameters Bring New Insight to Point Cloud Quality Assessment"](https://ieeexplore.ieee.org/abstract/document/11078383/)         |   -   |
 | 41 | -                         |["Perception-Weighted Multi-View Point Cloud Quality Assessment with Saliency-Guided Coverage Analysis"](https://ieeexplore.ieee.org/abstract/document/11081825)         |   -   |
 | 42 | -                         |["Mpv-pcqa: multimodal no-reference point cloud quality assessment via point cloud and captured dynamic video"](https://link.springer.com/article/10.1007/s00530-025-01887-2)         |   -   |
+| 43 | -                         |["COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction"](https://ieeexplore.ieee.org/abstract/document/11131459/)                        |  -  |
 
 ## Mesh QA metrics
 
