@@ -136,6 +136,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 41 | -                         |["Perception-Weighted Multi-View Point Cloud Quality Assessment with Saliency-Guided Coverage Analysis"](https://ieeexplore.ieee.org/abstract/document/11081825)         |   -   |
 | 42 | -                         |["Mpv-pcqa: multimodal no-reference point cloud quality assessment via point cloud and captured dynamic video"](https://link.springer.com/article/10.1007/s00530-025-01887-2)         |   -   |
 | 43 | -                         |["COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction"](https://ieeexplore.ieee.org/abstract/document/11131459/)                        |  -  |
+| 44 | -                         |["BMPCQA: Bioinspired Metaverse Point Cloud Quality Assessment Based on Large Multimodal Models"](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202500504)        |  [Code](https://github.com/IntMeGroup/BMPCQA)  |
 
 ## Mesh QA metrics
 
