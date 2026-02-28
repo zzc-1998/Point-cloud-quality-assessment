@@ -139,6 +139,7 @@ The original algorithms come from ["Evaluation criteria for PCC (Point Cloud Com
 | 44 | -                         |["BMPCQA: Bioinspired Metaverse Point Cloud Quality Assessment Based on Large Multimodal Models"](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202500504)        |  [Code](https://github.com/IntMeGroup/BMPCQA)  |
 | 45 | -                         |["UPDA: Unsupervised Progressive Domain Adaptation for No-Reference Point Cloud Quality Assessment"](https://arxiv.org/abs/2602.11969)                  | - |
 | 46 | -                         |["DPR-Net: dual-branch probabilistic regression for no-reference point cloud quality assessment"](https://link.springer.com/article/10.1007/s00530-025-02167-9)                  | - |
+| 47 | -                         |["EGMS-PCQM: Entropy-Guided Multiscale Sampling based Dual-net for No-Reference Point Cloud Quality Measurement"](https://ieeexplore.ieee.org/abstract/document/11408287)           | [Code](https://github.com/ll2s/EGMS-PCQM) |
 
 
 ## Mesh QA metrics
