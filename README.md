@@ -35,6 +35,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | SIAT-PCQD | Point cloud | Colored | 340 |
 | LS-PCQA | Point cloud | Colored | 1,080 |
 | BASICS | Point cloud | Colored | 1,494 |
+| PointQ-Bench | Point cloud | MOS, issue tags, and QA pairs | 3,083 |
 | CMDM | Mesh | Colored | 480 |
 | TMQA | Mesh | Textured | 3,000 |
 | Geo-Metric | Mesh | Geometry faces | 2,450 |
@@ -59,6 +60,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | 11 | vsenseVVDB (Volumetric Video Quality Database #1) | [Subjective and Objective Quality Assessment for Volumetric Video Compression](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) | [Link](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) |
 | 12 | vsenseVVDB2 (Volumetric Video Quality Database #2) | [Textured mesh vs coloured point cloud: A subjective study for volumetric video compression](https://ieeexplore.ieee.org/abstract/document/9123137/) | [Link](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) |
 | 13 | BASICS | [BASICS: Broad quality Assessment of Static point clouds In Compression Scenarios](https://arxiv.org/pdf/2302.04796.pdf) | - |
+| 14 | PointQ-Bench | [PointQ-Bench: Benchmarking Diagnostic and Interpretable Point Cloud Quality Assessment](https://arxiv.org/abs/2605.28241) | - |
 
 ### Mesh Quality Assessment Datasets
 
@@ -152,11 +154,13 @@ The implementations are based on the following works:
 | 40 | DQP-PCQA | [DQP-PCQA: Deep Quantization Parameters Bring New Insight to Point Cloud Quality Assessment](https://ieeexplore.ieee.org/abstract/document/11078383/) | - |
 | 41 | - | [Perception-Weighted Multi-View Point Cloud Quality Assessment with Saliency-Guided Coverage Analysis](https://ieeexplore.ieee.org/abstract/document/11081825) | - |
 | 42 | MPV-PCQA | [Mpv-pcqa: multimodal no-reference point cloud quality assessment via point cloud and captured dynamic video](https://link.springer.com/article/10.1007/s00530-025-01887-2) | - |
-| 43 | COPP-Net | [COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ieeexplore.ieee.org/abstract/document/11131459/) | - |
+| 43 | COPP-Net | [COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ieeexplore.ieee.org/abstract/document/11131459/) | [Code](https://github.com/philox12358/COPP-Net) |
 | 44 | BMPCQA | [BMPCQA: Bioinspired Metaverse Point Cloud Quality Assessment Based on Large Multimodal Models](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202500504) | [Code](https://github.com/IntMeGroup/BMPCQA) |
 | 45 | UPDA | [UPDA: Unsupervised Progressive Domain Adaptation for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2602.11969) | - |
 | 46 | DPR-Net | [DPR-Net: dual-branch probabilistic regression for no-reference point cloud quality assessment](https://link.springer.com/article/10.1007/s00530-025-02167-9) | - |
 | 47 | EGMS-PCQM | [EGMS-PCQM: Entropy-Guided Multiscale Sampling based Dual-net for No-Reference Point Cloud Quality Measurement](https://ieeexplore.ieee.org/abstract/document/11408287) | [Code](https://github.com/ll2s/EGMS-PCQM) |
+| 48 | QD-PCQA | [QD-PCQA: Quality-Aware Domain Adaptation for Point Cloud Quality Assessment](https://arxiv.org/abs/2603.03726) | [Code](https://github.com/huhu-code/QD-PCQA) |
+| 49 | PIT-QMM | [PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2510.07636) | [Code](https://github.com/shngt/pit-qmm) |
 
 ### Mesh QA Metrics
 
