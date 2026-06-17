@@ -1,5 +1,7 @@
 # 3D Quality Assessment Resources
 
+![3D Quality Assessment Resources](assets/3dqa-header.png)
+
 A curated collection of public resources for 3D quality assessment, including point cloud quality assessment (PCQA), mesh quality assessment (MQA), and digital human quality assessment datasets and methods.
 
 Contributions are welcome. If you would like to add new papers, datasets, or code repositories, please open a pull request or contact the maintainer.
