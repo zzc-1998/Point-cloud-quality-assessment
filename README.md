@@ -38,6 +38,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | LS-PCQA | Point cloud | Colored | 1,080 |
 | BASICS | Point cloud | Colored | 1,494 |
 | PointQ-Bench | Point cloud | MOS, issue tags, and QA pairs | 3,083 |
+| DAL-PCQA | Point cloud | Distortion labels and quality descriptions | 1,118 |
 | CMDM | Mesh | Colored | 480 |
 | TMQA | Mesh | Textured | 3,000 |
 | Geo-Metric | Mesh | Geometry faces | 2,450 |
@@ -63,6 +64,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | 12 | vsenseVVDB2 (Volumetric Video Quality Database #2) | [Textured mesh vs coloured point cloud: A subjective study for volumetric video compression](https://ieeexplore.ieee.org/abstract/document/9123137/) | [Link](https://v-sense.scss.tcd.ie/research/6dof/quality-assessment-for-fvv-compression/) |
 | 13 | BASICS | [BASICS: Broad quality Assessment of Static point clouds In Compression Scenarios](https://arxiv.org/pdf/2302.04796.pdf) | - |
 | 14 | PointQ-Bench | [PointQ-Bench: Benchmarking Diagnostic and Interpretable Point Cloud Quality Assessment](https://arxiv.org/abs/2605.28241) | - |
+| 15 | DAL-PCQA | [DAL-PCQA: Enabling Distortion-Level and Language-Driven Reasoning for Point Cloud Quality Assessment](https://arxiv.org/abs/2606.07938) | [Link](https://github.com/swarna96/DAL-PCQA) |
 
 ### Mesh Quality Assessment Datasets
 
@@ -147,7 +149,7 @@ The implementations are based on the following works:
 | 31 | - | [Visual-Saliency Guided Multi-modal Learning for No Reference Point Cloud Quality Assessment](https://dl.acm.org/doi/abs/10.1145/3689093.3689183) | - |
 | 32 | - | [Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds](https://arxiv.org/abs/2410.06689) | - |
 | 33 | - | [No-Reference Point Cloud Quality Assessment Through Structure Sampling and Clustering Based on Graph](https://ieeexplore.ieee.org/abstract/document/10737898/) | - |
-| 34 | - | [No-reference point cloud quality assessment via graph convolutional network](https://orca.cardiff.ac.uk/id/eprint/172907/) | - |
+| 34 | GC-PCQA | [No-reference point cloud quality assessment via graph convolutional network](https://orca.cardiff.ac.uk/id/eprint/172907/) | [Code](https://github.com/chenwuwq/GC-PCQA) |
 | 35 | CLIP-PCQA | [CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment](https://arxiv.org/abs/2501.10071) | - |
 | 36 | - | [Information Exploration of Projected Views for Point Cloud Quality Measurement](https://ieeexplore.ieee.org/abstract/document/10841467) | - |
 | 37 | CMDC-PCQA | [CMDC-PCQA: No-Reference Point Cloud Quality Assessment via a Cross-Modal Deep-Coupling Framework](https://ieeexplore.ieee.org/abstract/document/10884925) | - |
@@ -163,6 +165,8 @@ The implementations are based on the following works:
 | 47 | EGMS-PCQM | [EGMS-PCQM: Entropy-Guided Multiscale Sampling based Dual-net for No-Reference Point Cloud Quality Measurement](https://ieeexplore.ieee.org/abstract/document/11408287) | [Code](https://github.com/ll2s/EGMS-PCQM) |
 | 48 | QD-PCQA | [QD-PCQA: Quality-Aware Domain Adaptation for Point Cloud Quality Assessment](https://arxiv.org/abs/2603.03726) | [Code](https://github.com/huhu-code/QD-PCQA) |
 | 49 | PIT-QMM | [PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2510.07636) | [Code](https://github.com/shngt/pit-qmm) |
+| 50 | GT-PCQA | [GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM](https://arxiv.org/abs/2603.14951) | - |
+| 51 | R3-PCQA | [R3-PCQA: Ray-Reprojection-Reinforcement for No-Reference 3D Point Cloud Quality Assessment](https://openaccess.thecvf.com/content/CVPR2026/html/Seo_R3-PCQA_Ray-Reprojection-Reinforcement_for_No-Reference_3D_Point_Cloud_Quality_Assessment_CVPR_2026_paper.html) | - |
 
 ### Mesh QA Metrics
 
