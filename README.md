@@ -45,6 +45,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | DHHQA | Mesh | Textured human heads | 1,540 |
 | DDH-QA | FBX/MP4 | Dynamic digital humans | 800 |
 | SJTU-H3D | Mesh | Full-body digital humans | 1,120 |
+| DHQA-4D | 4D mesh | Dynamic digital humans; textured and non-textured MOS | 1,920 |
 
 ### Point Cloud Quality Assessment Datasets
 
@@ -82,6 +83,7 @@ Contributions are welcome. If you would like to add new papers, datasets, or cod
 | 1 | DHHQA | [Perceptual Quality Assessment for Digital Human Heads](https://arxiv.org/abs/2209.09489) | [Link](https://github.com/zzc-1998/DHHQA) |
 | 2 | DDH-QA | [DDH-QA: A Dynamic Digital Humans Quality Assessment Database](https://arxiv.org/pdf/2212.12734.pdf) | [Link](https://github.com/zzc-1998/DDH-QA) |
 | 3 | SJTU-H3D | [Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation](https://arxiv.org/abs/2307.02808) | [Link](https://github.com/zzc-1998/SJTU-H3D) |
+| 4 | DHQA-4D | [DHQA-4D: A large-scale dataset and LMM-based metric for dynamic 4D digital human quality assessment](https://doi.org/10.1016/j.patcog.2026.114567) | - |
 
 ## Methods
 
@@ -102,6 +104,7 @@ The implementations are based on the following works:
 | 1 | PointSSIM | [Towards a Point Cloud Structural Similarity Metric](https://ieeexplore.ieee.org/abstract/document/9106005) | [Code](https://github.com/mmspg/pointssim) |
 | 2 | GraphSIM | [Inferring Point Cloud Quality via Graph Similarity](http://arxiv.org/abs/2006.00497) | [Code](https://github.com/NJUVISION/GraphSIM) |
 | 3 | PCQM | [PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds](https://ieeexplore.ieee.org/document/9123147) | [Code](https://github.com/MEPP-team/PCQM) |
+| 4 | - | [A Multi-View Projection and 3D Feature Fusion Model for Full-Reference Point Cloud Quality Assessment](https://doi.org/10.3390/info17090823) | - |
 
 ### Reduced-Reference PCQA Metrics
 
@@ -167,12 +170,14 @@ The implementations are based on the following works:
 | 49 | PIT-QMM | [PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2510.07636) | [Code](https://github.com/shngt/pit-qmm) |
 | 50 | GT-PCQA | [GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM](https://arxiv.org/abs/2603.14951) | - |
 | 51 | R3-PCQA | [R3-PCQA: Ray-Reprojection-Reinforcement for No-Reference 3D Point Cloud Quality Assessment](https://openaccess.thecvf.com/content/CVPR2026/html/Seo_R3-PCQA_Ray-Reprojection-Reinforcement_for_No-Reference_3D_Point_Cloud_Quality_Assessment_CVPR_2026_paper.html) | - |
+| 52 | PCQA-R1 | [PCQA-R1: Advancing Generalized 3D Point Cloud Quality Assessment with Reinforcement Learning](https://arxiv.org/abs/2608.18627) | - |
 
 ### Mesh QA Metrics
 
 | # | Method | Paper | Code |
 |---:|---|---|---|
 | 1 | - | [Surface-Sampling Based Objective Quality Assessment Metrics for Meshes](https://ieeexplore.ieee.org/document/10096048) | - |
+| 2 | DynaMesh-Rater | [DHQA-4D: A large-scale dataset and LMM-based metric for dynamic 4D digital human quality assessment](https://doi.org/10.1016/j.patcog.2026.114567) | - |
 
 ## Contact
 
