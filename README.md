@@ -105,6 +105,7 @@ The implementations are based on the following works:
 | 2 | GraphSIM | [Inferring Point Cloud Quality via Graph Similarity](http://arxiv.org/abs/2006.00497) | [Code](https://github.com/NJUVISION/GraphSIM) |
 | 3 | PCQM | [PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds](https://ieeexplore.ieee.org/document/9123147) | [Code](https://github.com/MEPP-team/PCQM) |
 | 4 | - | [A Multi-View Projection and 3D Feature Fusion Model for Full-Reference Point Cloud Quality Assessment](https://doi.org/10.3390/info17090823) | - |
+| 5 | MS-ISSM | [MS-ISSM: Objective Quality Assessment of Point Clouds Using Multi-scale Implicit Structural Similarity](https://arxiv.org/abs/2601.01200) | [Code](https://github.com/ZhangChen2022/MS-ISSM) |
 
 ### Reduced-Reference PCQA Metrics
 
@@ -171,6 +172,12 @@ The implementations are based on the following works:
 | 50 | GT-PCQA | [GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM](https://arxiv.org/abs/2603.14951) | - |
 | 51 | R3-PCQA | [R3-PCQA: Ray-Reprojection-Reinforcement for No-Reference 3D Point Cloud Quality Assessment](https://openaccess.thecvf.com/content/CVPR2026/html/Seo_R3-PCQA_Ray-Reprojection-Reinforcement_for_No-Reference_3D_Point_Cloud_Quality_Assessment_CVPR_2026_paper.html) | - |
 | 52 | PCQA-R1 | [PCQA-R1: Advancing Generalized 3D Point Cloud Quality Assessment with Reinforcement Learning](https://arxiv.org/abs/2608.18627) | - |
+| 53 | AGAM-PCQA | [Adaptive Geometric Attention-Driven No-Reference Multi-Modal Point Cloud Quality Assessment](https://doi.org/10.1145/3795690) | - |
+| 54 | VS-PCQA | [Not All Views Matter: A View-Selective Approach to Point Cloud Perceptual Quality Assessment](https://doi.org/10.1109/QoMEx69967.2026.11618387) | - |
+| 55 | MDM-PCQA | [MDM-PCQA: No-reference Point Cloud Quality Assessment Method via Multi-Distortion Modeling](https://doi.org/10.1016/j.displa.2026.103443) | - |
+| 56 | SAF-Net | [Point Cloud Quality Assessment via Multi-View Structure-Aware Feature Fusion](https://doi.org/10.1609/aaai.v40i21.38847) | - |
+| 57 | Com-PCQA | [Com-PCQA: No-Reference Point Cloud Quality Assessment via Complex-Valued Feature Learning](https://doi.org/10.1109/TIP.2026.3676290) | [Code](https://github.com/LareinaSu/Com-PCQA) |
+| 58 | PCW-Graph | [Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network](https://doi.org/10.1016/j.eswa.2025.129817) | - |
 
 ### Mesh QA Metrics
 
